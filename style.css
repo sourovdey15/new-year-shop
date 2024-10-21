@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: "Kanit", sans-serif;
 }
 .cointainer {
     width: 80%;
@@ -14,8 +15,9 @@ body {
     background-size: 100%;
     box-shadow: inset 0px 300px 50px 0px rgba(0, 0, 0, 0.469);
     border-radius: 20px;
-    height: 500px;
+    height: 490px;
     margin-top: 40px;
+    margin-bottom: 80px;
  }
  .head-text-area {
     color:#ffffff;  
@@ -24,9 +26,27 @@ body {
  .head-text-area h2 {
     font-size: 50px;
     margin-top: -10px;
+    line-height: 60px;
  }
  .head-text-area h3 {
     font-size: 25px;
  }
  /* Header end  */
- 
+ /* offer-area Starts */
+.off-text{
+    color: red;
+    font-size: 50px;
+}
+.hs-sell {
+    color: red;
+    font-size: 15px;
+}
+.hy-offer > h2 {
+    font-size: 30px;
+    margin-top: 0;
+}
+.ny-photo {
+    height: 400px;
+    width: 600px;
+    margin-bottom: 80px;
+}
