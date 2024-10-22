@@ -215,3 +215,11 @@ body {
     margin-bottom: 100px;
     padding-right: 150px;
  }
+ .pro-gallery{
+    margin: auto;
+}
+ .gal-img {
+    width: 32%;
+    float: left;
+    padding: 6px;
+ }
