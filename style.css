@@ -196,3 +196,22 @@ body {
     height: 200px;
     margin-right: 30px;
  }
+ /* protifolio area star  */
+ .pro-txt-area {
+    text-align: left;
+ }
+ .pro-title {
+    color: red;
+    font-size: 15px;
+    margin-bottom: 0;
+ }
+ .pro-heading {
+    font-size: 35px;
+    margin-top: 0;
+    margin-bottom: 0;
+ }
+ .pro-description {
+    color: #aaaaaa;
+    margin-bottom: 100px;
+    padding-right: 150px;
+ }
