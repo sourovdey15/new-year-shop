@@ -50,3 +50,44 @@ body {
     width: 600px;
     margin-bottom: 80px;
 }
+/* p-night-area */
+.p-night-area {
+    background-image: url('images/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    box-shadow: inset 300px 0px 69px 66px rgba(0, 0, 0, 0.76);
+    border-radius: 20px;
+    height: 490px;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+.p-night-area h3 {
+    font-size: 50px;
+    letter-spacing: 5px;
+    margin-bottom: 0;
+}
+.p-night-area p {
+    font-weight: 200;
+    color: #d0cdcd;
+}
+.pn-button {
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #ffffff;
+    background-color: transparent;
+    border: none;
+} 
+.pn-content {
+    color: #ffffff;
+    width: 50%;
+    text-align: left;
+    padding-top: 40px;
+}
+
+.pn-content-photo img {
+    width: 130px;
+    padding-top: 50px;    
+}
