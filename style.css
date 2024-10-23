@@ -259,3 +259,28 @@ body {
    margin-left: -26px;
    padding: 10px 24px;
  }
+ /* Footer Area Start  */
+ footer {
+   background-color: #070211;
+   color: #ffffff;
+ }
+ footer h4 {
+   font-weight: 400;
+ }
+ .ft-line {
+   margin: 20px 240px;
+   border-color: #666666;
+ }
+ .address-area, .rights-area{
+   display: flex;
+   justify-content: space-around;
+   padding: 10px 0;
+ }
+ .social-icons {
+   display: flex;
+   justify-content: center;
+ }
+ .icons {
+   height: 40px;
+   padding: 10px;
+ }
